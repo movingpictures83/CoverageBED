@@ -1,0 +1,2 @@
+Prefix plugins/CoverageBED/example/
+Plugin CoverageBED inputfile parameters.txt outputfile coverage.txt

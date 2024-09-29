@@ -1,0 +1,2 @@
+A	plugins/CoverageBED/example/A.bed
+B	plugins/CoverageBED/example/B.bed
